@@ -4,5 +4,5 @@ Enlightening Illustrations: Analyzing the Role of Images in Early Modern Scienti
 This repository is used to store and share materials for early_modern-group
 
 Folders:
-detection: materials for object detection
+detection: materials for object detection <br>
 classification: materials for picture classification 
