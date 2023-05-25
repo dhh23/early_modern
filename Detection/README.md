@@ -9,4 +9,5 @@ Dataset in COCO format <br>
 Output:<br>
 detection model
 
-
+Note: Due to some compatibility issues copy pre-trained weights to your local system from 
+https://www.dropbox.com/s/dgy9c10wykk4lq4/model_final.pth?dl=1
