@@ -4,7 +4,7 @@ Enlightening Illustrations: Analyzing the Role of Images in Early Modern Scienti
 This repository is used to store and share materials for early_modern-group
 
 [The repository for our sub-project on image similarity](https://github.com/dhh23/early-modern-image-similarity "dhh23/early-modern-image-similarity")
-<br>
+
 **Folders:**<br>
 classification: materials for picture classification <br>
 detection: materials for object detection <br>
