@@ -9,6 +9,6 @@ This repository is used to store and share materials for the early_modern group
 Bibliography: exhaustive bibliography for the entire #earlymodern #DHH23 project <br>
 Classification: materials for picture classification <br>
 Detection: materials for object detection <br>
-Dimilarity: materials for image similarity search <br>
-Visualization: data vizualisations from our poster + additional ones <br>
 Exploration: additional code used throughout the project <br>
+Similarity: materials for image similarity search <br>
+Visualization: data vizualisations from our poster + additional ones <br>
