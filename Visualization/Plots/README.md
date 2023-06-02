@@ -1,6 +1,6 @@
 # Plots
 
-This subfolder contains all the relevant visualizations for the #earlymodern #DHH23 project.
+This subfolder contains visualizations relevant for the #earlymodern #DHH23 project.
 
 **Poster figures**
 * timeline_categories.png - Poster Fig. 1 The concentration of the used publications throughout the decade divided by subject.<br>
