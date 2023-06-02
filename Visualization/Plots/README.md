@@ -2,9 +2,9 @@
 
 This subfolder contains all the relevant visualizations for the #earlymodern #DHH23 project.
 
-* categories_per_format.png <br>
-* co-oc_bot_2fo.png <br>
-* co-oc_bot_8vo.png <br>
-* ills_per_format_time.png <br>
-* pie_whole_dataset.png <br>
-* timeline_categories.png <br>
+* timeline_categories.png - Poster Fig. 1 The concentration of the used publications throughout the decade divided by subject.<br>
+* pie_whole_dataset.png - Poster Fig. 2 Classification of illustrations using the CLIP model.<br>
+* ills_per_format_time.png -  Poster Fig. 3 The number of illustrations in high/low quality found in the prestigious (left) and popular (right) publication formats.<br>
+* categories_per_format.png - Poster Fig. 4 The relative appearance of the illustration classes in folios (left) and octavos (right).<br>
+* co-oc_bot_2fo.png - Poster Fig. 5 The co-occurrence of categories with botanical illustrations in prestigious publication formats.<br>
+* co-oc_bot_8vo.png -  Poster Fig. 5 The co-occurrence of categories with botanical illustrations in popular publication formats.<br>
