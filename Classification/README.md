@@ -1,3 +1,3 @@
 # Classification
 
-Materials for picture classification used in the #earlymodern #DHH23 project
+Materials for image classification used in the #earlymodern #DHH23 project
